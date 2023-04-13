@@ -1,0 +1,15 @@
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\bin\Debug\net6.0\Poo2.exe
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\bin\Debug\net6.0\Poo2.deps.json
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\bin\Debug\net6.0\Poo2.runtimeconfig.json
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\bin\Debug\net6.0\Poo2.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\bin\Debug\net6.0\Poo2.pdb
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\Poo2.csproj.AssemblyReference.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\Poo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\Poo2.AssemblyInfoInputs.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\Poo2.AssemblyInfo.cs
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\Poo2.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\Poo2.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\refint\Poo2.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\Poo2.pdb
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\Poo2.genruntimeconfig.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-12\ExercicePoo\Poo2\obj\Debug\net6.0\ref\Poo2.dll
